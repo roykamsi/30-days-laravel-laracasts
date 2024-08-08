@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Roy's learning
+## Motivation: Why I started learning it
 
 I'm trying to learn Laravel because I believe is a beast in terms of back end manipulation and it can cooperate easily with other front end stacks such as React and Vue. That's why I want to learn it and do it from Laracasts, which is specalized in this technology. I could have of course followed the docs of the official website, but I preferred to learn from people that uses it every day so to learn the best practices too.
 
